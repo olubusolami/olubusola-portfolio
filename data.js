@@ -1,32 +1,32 @@
-const superapp = `The Konga Online Shopping Super Application aggregating all Konga products on a single platform with a single signup.`;
-const flybox = `A redesigned of the flybox(A Fintech) frontend application, and implementation of the feature to allow guest users buy digital products without signing up or logging in.`;
-const agency = `The flybox agency banking application and implementation of the KYC process to check fraud.`;
-const dashboard = `A dashboard for a cryptocurrency Fintech.`;
-const uzi = `The new flybox frontend mobile-web Application built with Next.js, still in development.`;
-const dunamis = ``;
+const superapp = `The SuperApp is made by the Elynore Teck team, created with React and NodeJs`;
+const flybox = `The flybox website was made with React and NodeJs, and implementation of the feature allow users reach out to the admin`;
+const agency = `The flybox website was made with React and NodeJs, and implementation of the feature allow users get access to school abroad`;
+const dashboard = `A Truck site`;
+const uzi = `A Truck Site, still in development.`;
+const dunamis = `An hospital website built with html and css`;
 const weather = `A Weather App, it tells the real time weather of any city in the world.`;
 const background = `A Simple background generator app written with javascript and css to generate beautiful bacground gradient colors for projects.`;
 const progressBar = `A simple Javascript progress bar for blog posts.`;
 
 export const data = [
   { id: 1, tool: "Javascript" },
-  { id: 2, tool: "Typescript" },
-  { id: 3, tool: "React" },
+  { id: 2, tool: "Node.js" },
+  { id: 3, tool: "HTML5" },
   { id: 4, tool: "Next.js" },
-  { id: 5, tool: "Redux" },
-  { id: 6, tool: "Jquery" },
-  { id: 7, tool: "Node.js" },
-  { id: 8, tool: "React Testing Library With Jest" },
-  { id: 9, tool: "HTML5" },
+  { id: 5, tool: "React" },
+  { id: 6, tool: "React Testing Library With Jest" },
+  { id: 7, tool: "Bootstrap" },
+  { id: 8, tool: "Styled Components" },
+  { id: 9, tool: "PostgreSQL" },
   { id: 10, tool: "CSS3" },
   { id: 11, tool: "SCSS" },
-  { id: 12, tool: "Bootstrap" },
-  { id: 13, tool: "Styled Components" },
-  { id: 14, tool: "Go" },
-  { id: 15, tool: "PostgreSQL" },
-  { id: 16, tool: "Docker" },
-  { id: 17, tool: "Git" },
-  { id: 18, tool: "Ether.js" },
+  { id: 12, tool: "Git" },
+  // { id: 13, tool: "" },
+  // { id: 14, tool: "Go" },
+  // { id: 15, tool: "" },
+  // { id: 16, tool: "Docker" },
+  // { id: 17, tool: "" },
+  // { id: 18, tool: "Ether.js" },
 ];
 
 export const projectData = [
