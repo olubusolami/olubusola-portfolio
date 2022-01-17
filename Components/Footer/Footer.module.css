@@ -1,0 +1,12 @@
+.footer {
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #282828;
+}
+
+.footer p {
+  color: #f0860d;
+  font-size: 0.8rem;
+}
