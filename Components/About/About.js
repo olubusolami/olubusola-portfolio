@@ -28,7 +28,7 @@ const About = () => {
               </p>
             </div>
             <div className={styles.techStack}>
-              <h3>Tools and Technologies</h3>
+              <h1>Tools and Technologies</h1>
               <div className={styles.tools}>{tools}</div>
               <div className={styles.cv}>
                 <a

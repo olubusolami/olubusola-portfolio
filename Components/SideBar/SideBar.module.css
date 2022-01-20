@@ -18,7 +18,7 @@
 .contactz {
   width: 7rem;
   padding: 0.7rem;
-  background: #f0860d;
+  background: #ac1d58;
   border: none;
   border-radius: 2px;
   color: #fff;
@@ -26,7 +26,7 @@
 }
 
 .navLinks li:hover {
-  color: #e8661c;
+  color: #ac1d58;
   transition: 0.2s ease-in-out;
 }
 

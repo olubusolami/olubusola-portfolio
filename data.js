@@ -1,4 +1,4 @@
-const superapp = `The SuperApp is made by the Elynore Teck team, created with React and NodeJs`;
+const superapp = `The Elynore Website is made by the Elynore Teck team, created with React and NodeJs. Still in development`;
 const flybox = `The flybox website was made with React and NodeJs, and implementation of the feature allow users reach out to the admin`;
 const agency = `The flybox website was made with React and NodeJs, and implementation of the feature allow users get access to school abroad`;
 const dashboard = `A Truck site`;
@@ -21,12 +21,6 @@ export const data = [
   { id: 10, tool: "CSS3" },
   { id: 11, tool: "SCSS" },
   { id: 12, tool: "Git" },
-  // { id: 13, tool: "" },
-  // { id: 14, tool: "Go" },
-  // { id: 15, tool: "" },
-  // { id: 16, tool: "Docker" },
-  // { id: 17, tool: "" },
-  // { id: 18, tool: "Ether.js" },
 ];
 
 export const projectData = [

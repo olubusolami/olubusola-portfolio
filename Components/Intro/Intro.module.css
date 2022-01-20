@@ -1,8 +1,8 @@
 .containerx {
   height: 100vh !important;
-  margin: 0% 15% !important;
-  background: linear-gradient(#f0860d 0 0) 0 0/0 100%,
-    linear-gradient(#f0860d 0 0) 205% 0/50% 100%#000;
+  margin: 0% 10% !important;
+  background: linear-gradient(#ac1d58 0 0) 0 0/0 100%,
+    linear-gradient(#ac1d58 0 0) 205% 0/50% 100%#000;
   background-repeat: no-repeat;
   -webkit-background-clip: text;
   background-clip: text;
@@ -13,8 +13,8 @@
   position: absolute;
   inset: auto 0 0;
   height: 15px;
-  background: linear-gradient(#f0860d 0 0) 0 0/0 100%,
-    linear-gradient(#f0860d 0 0) 205% 0/50% 100%;
+  background: linear-gradient(#ac1d58 0 0) 0 0/0 100%,
+    linear-gradient(#ac1d58 0 0) 205% 0/50% 100%;
   background-repeat: no-repeat;
   transition: 0.3s linear, background-size 0.3s 0.3s linear;
 }
