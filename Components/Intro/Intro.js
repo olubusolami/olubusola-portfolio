@@ -12,6 +12,7 @@ import {
   AiOutlineArrowDown,
 } from "react-icons/ai";
 import { composeClasses } from "../Utils/Utils";
+import AnimatedText from "../AnimatedText/AnimatedText";
 
 const style = {
   paddingRight: "6px",
@@ -45,7 +46,7 @@ const Intro = ({ toggleTheme, theme, componentMounted }) => {
             <Image
               src={profilePic}
               alt="Picture of the author"
-              width={350}
+              width={250}
               height={350}
               className={styles.image}
             />
@@ -60,7 +61,7 @@ const Intro = ({ toggleTheme, theme, componentMounted }) => {
             )}
           >
             <h1>
-              Hello, I'm <span>Olubusola Odunuga</span>
+              Hello, I'm <AnimatedText>Olubusola Odunuga</AnimatedText>
               <br /> a back-end developer <br /> based in Lagos, Nigeria{" "}
             </h1>
             <div className={styles.social}>
@@ -104,11 +105,11 @@ const Intro = ({ toggleTheme, theme, componentMounted }) => {
             styles.delay3
           )}
         >
-          <a href="#about">
+          {/* <a href="#about">
             <button>
               More <AiOutlineArrowDown />
             </button>
-          </a>
+          </a> */}
         </div>
       </section>
     </Fragment>

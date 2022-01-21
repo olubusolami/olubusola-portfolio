@@ -16,7 +16,7 @@
 }
 
 .intro span {
-  color: #f0860d;
+  color: #ac1d58;
 }
 .imageholder {
   position: relative;
@@ -64,8 +64,8 @@
 }
 .more button:hover {
   /* background: transparent; */
-  border: 1px solid #f0860d;
-  color: #f0860d;
+  border: 1px solid #ac1d58;
+  color: #ac1d58;
 }
 
 .about {
@@ -78,22 +78,21 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: 3rem;
-  /* flex-wrap: wrap; */
+  margin-top: -8rem;
 }
 .aboutText {
   width: 90%;
+  margin-top: 10%;
 }
 .aboutDetails p {
   width: 90%;
   font-size: 1rem;
   line-height: 150%;
-  /* text-align: center; */
 }
 .techStack {
   width: 100%;
+  /* margin-top: 10.5%; */
 }
-
 .tools {
   display: flex;
   flex-wrap: wrap;
@@ -109,13 +108,12 @@
 
 .cv {
   display: flex;
-  /* justify-content: center; */
   margin-top: 2rem;
 }
 .cv button {
   width: 10rem;
   padding: 1rem;
-  background: #f0860d;
+  background: #ac1d58;
   border: none;
   color: #f1f1f1;
   border-radius: 4px;
@@ -125,13 +123,13 @@
 
 .cv button:hover {
   background: transparent;
-  border: 1px solid #f0860d;
-  color: #f0860d;
+  border: 1px solid #ac1d58;
+  color: #ac1d58;
 }
 
 .glass {
   height: 80vh;
-  width: 75%;
+  width: 95%;
   padding: 0rem 5%;
   background: linear-gradient(
     to right bottom,
@@ -147,14 +145,14 @@
 
 .glass:hover {
   /* background: transparent; */
-  border: 1px solid #f0860d;
+  border: 1px solid #ac1d58;
   box-shadow: 1px 1px 4px rgba(186, 49, 240, 0.1),
     1px 1px 6px 1px rgba(4, 46, 63, 0.03);
 }
 
 .glass h1 {
   display: flex;
-  justify-content: center;
+  justify-content: left;
   align-items: center;
   margin-top: 4rem;
 }

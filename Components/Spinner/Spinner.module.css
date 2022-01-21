@@ -5,26 +5,26 @@
   width: 10em;
   height: 10em;
   border-radius: 50%;
-  background: #e8661c;
+  background: #ac1d58;
   background: -moz-linear-gradient(
     left,
-    #e8661c 10%,
+    #ac1d58 10%,
     rgba(201, 182, 182, 0) 42%
   );
   background: -webkit-linear-gradient(
     left,
-    #e8661c 10%,
+    #ac1d58 10%,
     rgba(201, 182, 182, 0) 42%
   );
-  background: -o-linear-gradient(left, #e8661c 10%, rgba(201, 182, 182, 0) 42%);
+  background: -o-linear-gradient(left, #ac1d58 10%, rgba(201, 182, 182, 0) 42%);
   background: -ms-linear-gradient(
     left,
-    #e8661c 10%,
+    #ac1d58 10%,
     rgba(201, 182, 182, 0) 42%
   );
   background: linear-gradient(
     to right,
-    #e8661c 10%,
+    #ac1d58 10%,
     rgba(201, 182, 182, 0) 42%
   );
   position: relative;
@@ -37,7 +37,7 @@
 .spinner:before {
   width: 50%;
   height: 50%;
-  background: #e8661c;
+  background: #ac1d58;
   border-radius: 100% 0 0 0;
   position: absolute;
   top: 0;
