@@ -29,26 +29,26 @@ export const projectData = [
     url: "https://elynore.vercel.app/",
     image: "/img/superapp.png",
   },
-  {
-    name: flybox,
-    url: "https://flyboxconslt-com.vercel.app/contact-us",
-    image: "/img/flybox.png",
-  },
+  // {
+  //   name: flybox,
+  //   url: "https://flyboxconslt-com.vercel.app/contact-us",
+  //   image: "/img/flybox.png",
+  // },
   {
     name: agency,
     url: "https://flyboxconslt-com.vercel.app/study_in_canada#/",
     image: "/img/flybos.png",
   },
-  {
-    name: dashboard,
-    url: "https://admin-uzi-logistics.netlify.app/",
-    image: "/img/dashboard.png",
-  },
-  {
-    name: uzi,
-    url: "https://customer-uzi-logistics.netlify.app/",
-    image: "/img/UZI.png",
-  },
+  // {
+  //   name: dashboard,
+  //   url: "https://admin-uzi-logistics.netlify.app/",
+  //   image: "/img/dashboard.png",
+  // },
+  // {
+  //   name: uzi,
+  //   url: "https://customer-uzi-logistics.netlify.app/",
+  //   image: "/img/UZI.png",
+  // },
   {
     name: dunamis,
     url: "https://dunamisdiagnostic.netlify.app/index.html",
@@ -64,11 +64,11 @@ export const projectData = [
     url: "https://background.vercel.app/",
     image: "/img/background.png",
   },
-  {
-    name: progressBar,
-    url: "https://simple-javascript-progress-bar.vercel.app/",
-    image: "/img/progressbar.png",
-  },
+  // {
+  //   name: progressBar,
+  //   url: "https://simple-javascript-progress-bar.vercel.app/",
+  //   image: "/img/progressbar.png",
+  // },
   // {
   //   name: "Simple CSS background generator",
   //   url: "https://agents.flybox.com",

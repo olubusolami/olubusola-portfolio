@@ -12,6 +12,7 @@ import {
   AiOutlineArrowDown,
 } from "react-icons/ai";
 import { composeClasses } from "../Utils/Utils";
+import AnimatedText from "../AnimatedText/AnimatedText";
 
 const style = {
   paddingRight: "6px",
@@ -60,7 +61,7 @@ const Intro = ({ toggleTheme, theme, componentMounted }) => {
             )}
           >
             <h1>
-              Hello, I'm <span>Olubusola Odunuga</span>
+              Hello, I'm <AnimatedText>Olubusola Odunuga</AnimatedText>
               <br /> a back-end developer <br /> based in Lagos, Nigeria{" "}
             </h1>
             <div className={styles.social}>

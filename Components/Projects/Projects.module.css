@@ -6,7 +6,8 @@
 }
 
 .glass {
-  width: 75%;
+  height: 80vh;
+  width: 95%;
   padding: 0rem 5%;
   background: linear-gradient(
     to right bottom,
@@ -26,6 +27,7 @@
   box-shadow: 1px 1px 4px rgba(186, 49, 240, 0.1),
     1px 1px 6px 1px rgba(4, 46, 63, 0.03);
 }
+
 .glass h1 {
   display: flex;
   justify-content: center;
@@ -39,9 +41,7 @@
   justify-items: center;
   column-gap: 25px;
   row-gap: 25px;
-  margin: 60px 50px;
-  /* margin-bottom: 150%; */
-  padding-bottom: 20rem;
+  /* margin: 60px 100px; */
 }
 .projects {
   position: relative;
@@ -55,7 +55,7 @@
   cursor: pointer;
 }
 .img {
-  /* display: flex; */
+  display: block;
   width: 100%;
   height: auto;
 }
@@ -71,7 +71,6 @@
   transition: 0.9s ease;
   background-color: #797c7e;
 }
-
 .projects:hover .overlay {
   opacity: 1;
 }
