@@ -24,7 +24,6 @@ export default function Home() {
   if (!componentMounted) {
     return <div />;
   }
-
   return (
     <ThemeProvider theme={themeMode}>
       <>

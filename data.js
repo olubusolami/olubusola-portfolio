@@ -1,12 +1,13 @@
 const superapp = `The Elynore Website is made by the Elynore Teck team, created with React and NodeJs. Still in development`;
 const flybox = `The flybox website was made with React and NodeJs, and implementation of the feature allow users reach out to the admin`;
-const agency = `The flybox website was made with React and NodeJs, and implementation of the feature allow users get access to school abroad`;
+const flyboxAgency = `The flybox website was made with React and NodeJs, and implementation of the feature allow users get access to school abroad`;
 const dashboard = `A Truck site`;
 const uzi = `A Truck Site, still in development.`;
 const dunamis = `An hospital website built with html and css`;
 const weather = `A Weather App, it tells the real time weather of any city in the world.`;
 const background = `A Simple background generator app written with javascript and css to generate beautiful bacground gradient colors for projects.`;
 const progressBar = `A simple Javascript progress bar for blog posts.`;
+const tmacademy =`An academy for building a career in IT`
 
 export const data = [
   { id: 1, tool: "Javascript" },
@@ -14,12 +15,12 @@ export const data = [
   { id: 3, tool: "HTML5" },
   { id: 4, tool: "Next.js" },
   { id: 5, tool: "React" },
-  { id: 6, tool: "React Testing Library With Jest" },
+  { id: 6, tool: "Pug.js" },
   { id: 7, tool: "Bootstrap" },
   { id: 8, tool: "Styled Components" },
   { id: 9, tool: "PostgreSQL" },
   { id: 10, tool: "CSS3" },
-  { id: 11, tool: "SCSS" },
+  { id: 11, tool: "Nest.js" },
   { id: 12, tool: "Git" },
 ];
 
@@ -29,13 +30,13 @@ export const projectData = [
     url: "https://elynore.vercel.app/",
     image: "/img/superapp.png",
   },
+  // {
+  //   name: flybox,
+  //   url: "https://flyboxconslt-com.vercel.app/contact-us",
+  //   image: "/img/flybox.png",
+  // },
   {
-    name: flybox,
-    url: "https://flyboxconslt-com.vercel.app/contact-us",
-    image: "/img/flybox.png",
-  },
-  {
-    name: agency,
+    name: flyboxAgency,
     url: "https://flyboxconslt-com.vercel.app/study_in_canada#/",
     image: "/img/flybos.png",
   },
@@ -59,6 +60,13 @@ export const projectData = [
     url: "https://weather-app-tan-three.vercel.app/",
     image: "/img/weatherApp.png",
   },
+
+  {
+    name: tmacademy,
+    url: "https://tmacademy.tm30.net/#register",
+    image: "/img/tmacademy.png"
+  }
+  
   // {
   //   name: background,
   //   url: "https://background.vercel.app/",
